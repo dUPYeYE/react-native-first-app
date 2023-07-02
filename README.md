@@ -12,3 +12,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+[Link to published app](https://expo.dev/@dupp/react-native-course?serviceType=classic&distribution=expo-go)
